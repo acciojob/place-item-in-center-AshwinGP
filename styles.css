@@ -5,8 +5,9 @@
 	height:vh;
 	width:vw;
 	justify-content:center;
+	align-items:center;
 }
-.item{
+.item-1{
 	display:flex;
 	width:100px;
 	height:100px;
